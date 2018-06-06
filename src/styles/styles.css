@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900");
+body {
+  font-family: 'Lato', sans-serif; }
+
+.is-active {
+  font-weight: 900; }
+
+/*# sourceMappingURL=styles.css.map */
