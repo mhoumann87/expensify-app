@@ -149,5 +149,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+public/bundle.js
+public/bundle.js.map
+public/style.css
+public/style.css.map
+
 
 # End of https://www.gitignore.io/api/node,windows,jetbrains+all
