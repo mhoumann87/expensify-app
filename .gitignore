@@ -150,5 +150,6 @@ $RECYCLE.BIN/
 *.lnk
 
 public/dist/
+src/playground
 
 # End of https://www.gitignore.io/api/node,windows,jetbrains+all
