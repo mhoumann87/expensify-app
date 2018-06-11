@@ -1,5 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
 body {
+  font-size: 1.6rem;
+  color: $dark-gray;
   font-family: 'Lato', sans-serif;
+  font-size: $m-size;
+  line-height: 1.6;
+}
+
+button {
+  cursor: pointer;
 }
 
 .is-active {
